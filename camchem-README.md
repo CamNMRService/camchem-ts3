@@ -4,6 +4,7 @@ Installation
 Clone repository
 
 for linus os x - cd /opt/
+
 for windows - cd /Bruker 
 
 git clone https://github.com/CamNMRService/camchem-ts3
